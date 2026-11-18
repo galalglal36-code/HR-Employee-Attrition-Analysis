@@ -85,3 +85,10 @@ The findings show associations between employee characteristics and attrition. T
 **Galal Ramdan**
 
 Aspiring Junior Data Analyst
+## Dashboard Screenshots
+
+### HR Overview
+![HR Overview](./Screenshot%202026-11-17%20203529.png)
+
+### Workplace Factors
+![Workplace Factors](./Screenshot%202026-11-17%20203509.png)
